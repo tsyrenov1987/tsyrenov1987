@@ -39,3 +39,5 @@ the part that was hard to get right: protocols, conversion recipes, datasets.
   service schedules by make and model (oil, tires, brakes, timing belt vs chain, milestones).
 - **[manufacturer-warranty-terms](https://github.com/tsyrenov1987/manufacturer-warranty-terms)**:
   standard manufacturer warranty terms by brand (length, how to claim, registration).
+- **[zurkhai-lunar-calendar](https://github.com/tsyrenov1987/zurkhai-lunar-calendar)**:
+  Tibetan-Mongolian lunar calendar 2026–2027, one row per day (lunar day, element, animal, haircut days in EN/RU/MN).
